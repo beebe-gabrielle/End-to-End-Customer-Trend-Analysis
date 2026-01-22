@@ -18,3 +18,10 @@ previous purchases, and show the count of each segment.
 * Are customers who are repeat buyers (more than 5 previous purchases) also likely to
 subscribe?
 * What is the revenue contribution of each age group?
+
+### EDA in Python
+For this project, I used Jupyter Notebook to start a Python kernel where I imported the Pandas library for EDA and data cleaning
+
+<img width="899" height="134" alt="image" src="https://github.com/user-attachments/assets/6e95e9d0-5ae2-4aff-af2a-eaafe791d580" />
+
+Below are snapshots of the Python script I created, view the script in its entirity here: 
